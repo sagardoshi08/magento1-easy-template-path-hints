@@ -23,6 +23,12 @@ Install FAQ extension for Magento2
  * Unzip the file
  * Just copy & paste the 'app' folder provided in the extension zip file to the root of your Magento installation.
  
+#### Documentation
+* User Manual: http://www.magegadgets.com/media/catalog/product/e/a/easypathm1.pdf
+* Installation Guide: http://www.magegadgets.com/media/catalog/product/i/n/installation_guide_magento_1_4.pdf
+
+
+ 
  ### 2 - Enable Easy Template Path Hints extension
  * Go to Admin: System >> Configuration >> MageGadgets Extensions >> Easy Template Path Hints >> Manage your setting here
  
